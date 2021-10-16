@@ -3,6 +3,8 @@ A ideia desse projeto era construir um cadastro de pedidos semelhante a Nota Fis
 
 ### Esse projeto foi Desenvolvido nas aulas de Programação Web Back End do Curso de Desenvolvimento de Sistemas. 
 
+### O que foi utilizado: Java usando Servlet ,JSP e Banco de dados MySQL.
+
 ## O projeto em execução
 
 ![captura1](https://user-images.githubusercontent.com/78637454/130281891-b08a1d3c-7cf2-48eb-881e-4341b60db730.JPG)
