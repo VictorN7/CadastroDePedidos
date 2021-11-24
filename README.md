@@ -11,7 +11,7 @@
 - [x] HTML5
 - [x] CSS3
 - [x] Bootstrap
-- [x] Banco de dados MySQL
+- [x] Banco de Dados MySQL
 
 > ## 🚀O projeto em execução
 
