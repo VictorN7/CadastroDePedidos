@@ -17,3 +17,13 @@
 
 
 ![unknown_2021 11 24-03 43_clip_1_2](https://user-images.githubusercontent.com/78637454/143189185-e85ee12a-111f-42c4-9173-85b30d231330.gif)
+
+## 🗃Como baixar o código?
+
+#### Siga esse passo para baixar o código
+
+ - Windows, MacOS e Linux
+
+```
+git clone https://github.com/VictorN7/CadastroDePedidos.git
+```
